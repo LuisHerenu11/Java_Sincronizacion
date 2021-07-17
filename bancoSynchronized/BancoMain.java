@@ -1,4 +1,4 @@
-package javabanco;
+package bancoSynchronized;
 
 public class BancoMain {
     public static void main(String[] args) {

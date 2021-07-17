@@ -1,4 +1,4 @@
-package javabanco;
+package bancoSynchronized;
 
 public class EjecucionTransferencias implements Runnable{
 
